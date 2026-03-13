@@ -67,5 +67,5 @@ console.log(marks.slice(1,3));
 marks.splice(2,0,90);
 let num=[23,5,46,757,878,979,98,986,8];
 num.splice(num.length-3,3,1,2,3);
-console.log(num);
+console.log(num );
 console.log(marks);
