@@ -54,8 +54,8 @@ const vowCountArrow=(word)=>{
 let word=prompt("Enter the word");
 vowCount(word);
 vowCountArrow(word);
-*/
 
+*/
 //for each
 let arr=[2,4,6,7,8];
 arr.forEach((val)=>{console.log(val);});
