@@ -93,3 +93,17 @@ button:hover {
   transform: translateX(10px);
   background: #e2e8f0;
 }
+#events{
+  height: 80 px;
+  width: 250px;
+  
+ 
+}
+.dark{
+  background-color: #ffffff;
+  color: #000000;
+}
+.light{
+  background-color: #000000;
+  color:#ffffff
+}

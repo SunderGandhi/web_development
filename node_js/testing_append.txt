@@ -1,0 +1,2 @@
+This is the textfile created using node jsThis file is created using append methodThis file is created using append method
+ this is the next line added
